@@ -1,0 +1,5 @@
+IPpublica:10.0.2.15
+IPprivada:127.0.0.1
+MAC:08:00:27:4a:37:7d
+¿Es diferente a la IPPublica y privada de nuestra maquina host?
+Si, tienen unas ips completamente diferentes a las de la maquina host.
